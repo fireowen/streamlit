@@ -10,7 +10,7 @@ def off_calc(fire_area, fuel_load, ext_eff):
     if ext_eff == 0:
         fire_flow = 0
     else:
-        fire_flow = (0.058 * fuel_load * math.sqrt(fire_area) / ext_eff)
+        fire_flow = (0.058275058275 * fuel_load * math.sqrt(fire_area) / ext_eff)
 
     return t_ext, fire_flow
 
