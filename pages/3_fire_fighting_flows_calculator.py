@@ -21,7 +21,7 @@ def def_calc(fire_area, fuel_load, ext_eff, view_f):
     if ext_eff == 0:
         def_fire_flow = 0
     else:
-        def_fire_flow = (view_f / ext_eff) * (0.005 * fuel_load * math.sqrt(fire_area))
+        def_fire_flow = (view_f / ext_eff) * (0.0050991 * fuel_load * math.sqrt(fire_area))
 
     return def_t_ext, def_fire_flow
 
