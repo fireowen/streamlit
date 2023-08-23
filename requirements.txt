@@ -1,4 +1,5 @@
-streamlit_extras
+streamlit_extras.app_logo
+streamlit_extras.switch_page_button
 st_keyup
 numpy
 matplotlib
