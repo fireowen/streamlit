@@ -1,0 +1,8 @@
+streamlit_extras-dev
+st_keyup-dev
+numpy-dev
+matplotlib-dev
+plotly-dev
+pandas-dev
+plotly.express-dev
+plotly.graph_objects-dev
