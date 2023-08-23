@@ -1,10 +1,11 @@
 import streamlit as st
+from streamlit_extras.app_logo import add_logo
 from st_keyup import st_keyup
 from streamlit_extras.switch_page_button import switch_page
 
 import plotly
 
-
+add_logo(r'images\logo.jpg', height=120)
 
 st.title('Safyre calculator homepage')
 
