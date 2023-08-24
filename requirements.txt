@@ -7,4 +7,4 @@ matplotlib
 plotly
 pandas
 plotly.express
-plotly.graph_objects
+#plotly.graph_objects
