@@ -5,7 +5,7 @@ from streamlit_extras.switch_page_button import switch_page
 
 import plotly
 
-add_logo(r'images\logo.jpg', height=120)
+#add_logo(r'images\logo.jpg', height=120)
 
 st.title('Safyre calculator homepage')
 
