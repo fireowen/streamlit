@@ -1,7 +1,7 @@
 streamlit-extras
 #streamlit_extras.app_logo
 #streamlit_extras.switch_page_button
-st_keyup
+st-keyup
 numpy
 matplotlib
 plotly
